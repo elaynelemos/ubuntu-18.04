@@ -5,4 +5,5 @@ RUN apt-get install -y \
   python3 \
   sudo \
   gnupg \
-  wget
+  wget \
+  ssh
